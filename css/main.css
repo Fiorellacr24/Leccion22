@@ -1,0 +1,18 @@
+*{
+	font-family: 'Raleway', sans-serif;
+}
+
+p{
+	font-weight: 500;
+	display: block;
+	background-color: yellow;
+	height: 50px;
+	margin: 0;
+	padding: 10px;
+}
+
+p.red{
+	background-color: #ff0053;
+	border: 1px solid black;
+	padding-top: 15px;
+}
